@@ -1,8 +1,6 @@
-Oi, I'm @lickx  
+Hi, I'm @lickx  
 
 Matrix: @roboi:matrix.org  
-OpenSim Mantis: Lotek  
-SL and OsGrid: Okie Heartsong (mostly)  
 
 <!---
 lickx/lickx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
